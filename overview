@@ -1,0 +1,27 @@
+🏥 New Data Analytics Project: Australian Hospital Performance Dashboard 🚀
+
+I built an interactive Power BI dashboard to explore hospital efficiency, patient outcomes, and financial performance in Australia (2021–2025).
+
+🎯 Purpose:
+To understand how Australian hospitals are performing across efficiency, patient care, and profitability, and to show how data-driven insights can support better healthcare decisions for administrators, policymakers, and recruiters.
+
+🔍 Key Insights:
+
+NSW & VIC record the highest admissions, reflecting population demand.
+
+Private hospitals achieve higher profits 💰 but report lower patient satisfaction compared to public hospitals.
+
+ED Wait Times worsen in 2024–2025, highlighting system pressure and possible staffing shortages.
+
+Readmission rates for chronic diseases (diabetes, heart) remain high in certain states → need for better preventive care.
+
+Mortality rates are higher in rural states, pointing to regional healthcare access gaps.
+
+📊 Dashboard Features:
+✔️ KPI Cards: Avg Wait Time, Readmission %, Mortality, Satisfaction, Profit
+✔️ Trends: Line chart (ED Wait Time by Year/State)
+✔️ Comparison: Bar charts (Admissions by State & Hospital Type)
+✔️ Breakdown: Heatmap (Mortality by State & Year), Donut (Public vs Private share)
+✔️ Slicers: Year, State, Hospital Type → full drill-down capability
+
+⚒️ Tech Used: Power BI, Power Query, DAX, Data Modeling, Storytelling with Data
