@@ -108,22 +108,3 @@ README.md → Project description (this file).
 
 /assets → Dashboard screenshots & sample insights.
 
-🚀 How to Use
-
-Download this repo → open .pbix file in Power BI Desktop.
-
-Explore slicers: Year, State, Hospital Type.
-
-Hover over visuals for tooltips & drill-through insights.
-
-Use with real datasets (AIHW, ABS) by replacing the CSV.
-
-📈 Future Enhancements
-
-Add forecasting for admissions & wait times.
-
-Integrate staffing & resource data (doctor/nurse ratios, ICU capacity).
-
-Include cost per admission (IHACPA data).
-
-Build patient-level drill-down reports for deeper insights.
